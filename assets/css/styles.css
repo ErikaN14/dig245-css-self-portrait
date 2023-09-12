@@ -2,8 +2,8 @@
 
 .face1{
     width: 250px;
-    height: 404px;
-    background-color: #EC9F6A;
+    height: 410px;
+    background-color: #E3B095;
     border-radius: 115px;
     position: absolute;
     z-index: 3;
@@ -13,8 +13,8 @@
 
 .faceLeft{
     width: 240px;
-    height: 404.72px;
-    background-color: #EC9F6A;
+    height: 410px;
+    background-color: #E3B095;
     border-radius: 115px;
     position: absolute;
     z-index: 3;
@@ -25,8 +25,8 @@
 
 .faceRight{
     width: 205px;
-    height: 401.72px;
-    background-color: #EC9F6A;
+    height: 420px;
+    background-color: #E3B095;
     border-radius: 115px;
     position: absolute;
     z-index: 3;
@@ -207,26 +207,26 @@
     top: 285px;
 }
 
-.eyeL{
+.eyeR{
     width: 55px;
-    height: 66px;
+    height: 44px;
     background-color: #FFFFFF;
     border-radius: 50px;
     position: absolute;
     z-index: 3;
     left: 755px;
-    top: 292px;  
+    top: 305px;  
 }
 
-.eyeR{
+.eyeL{
     width: 55px;
-    height: 66px;
+    height: 44px;
     background-color: #FFFFFF;
     border-radius: 50px;
     position: absolute;
     z-index: 3;
     left: 620px;
-    top: 292px;  
+    top: 305px;  
 }
 
 .eyeInnerR{
@@ -236,7 +236,7 @@
     border-radius: 50px;
     position: absolute;
     z-index: 3;
-    left: 770px;
+    left: 771px;
     top: 320px;  
 }
 
@@ -247,13 +247,13 @@
     border-radius: 50px;
     position: absolute;
     z-index: 3;
-    left: 640px;
+    left: 638px;
     top: 320px;  
 }
 
 .mouthTop{
     width: 95px;
-    height:24px;
+    height:20px;
     background-color: #E76552;
     border-radius: 50px;
     position: absolute;
@@ -264,7 +264,7 @@
 
 .mouthBottom{
     width: 104px;
-    height:24px;
+    height:20px;
     background-color: #E76552;
     border-radius: 50px;
     position: absolute;
@@ -274,26 +274,26 @@
 }
 
 .mouthL{
-    width: 54.05px;
-    height: 35px;
+    width: 45.05px;
+    height: 25px;
     background-color:#E76552;
     border-radius: 50px;
     position: absolute;
     z-index: 3;
-    left: 630px;
-    top: 420px;
+    left: 634px;
+    top: 424px;
     transform: rotate(47.64deg); 
 }
 
 .mouthR{
-    width: 54.05px;
-    height: 35px;
+    width: 45.05px;
+    height: 25px;
     background-color:#E76552;
     border-radius: 50px;
     position: absolute;
     z-index: 3;
-    left: 725px;
-    top: 420px;
+    left: 735px;
+    top: 424px;
     transform: rotate(-47.64deg); 
 }
 
