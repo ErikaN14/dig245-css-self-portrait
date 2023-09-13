@@ -105,13 +105,13 @@ h1{
 
 .hairBack{
     width: 465px;
-    height: 515px;
+    height: 510px;
     background-color: #302414;
     border-radius: 39px;
     position: absolute;
     z-index: 3;
     left: 495px;
-    top: 210px;
+    top: 215px;
 }
 
 .eyebrowLeft1{
@@ -197,7 +197,7 @@ h1{
 .glassesInteriorL{
     width: 110px;
     height: 80px;
-    background-color: #EC9F6A;
+    background-color: #E3B095;
     border-radius: 50px;
     position: absolute;
     z-index: 3;
@@ -208,7 +208,7 @@ h1{
 .glassesInteriorR{
     width: 110px;
     height: 80px;
-    background-color: #EC9F6A;
+    background-color: #E3B095;
     border-radius: 50px;
     position: absolute;
     z-index: 3;
@@ -304,6 +304,11 @@ h1{
     left: 735px;
     top: 424px;
     transform: rotate(-47.64deg); 
+}
+
+.mouse{
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
 }
 
 
