@@ -1,10 +1,13 @@
 /* css */
 body{
     background-color: #ffb6c1;
+    /*Added backgroung color*/
+
 }
 
 h1{
     font-family: "Lucida Console", monospace;
+    /*Added font style*/
 }
 
 .face1{
